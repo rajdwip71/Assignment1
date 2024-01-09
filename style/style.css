@@ -1,0 +1,146 @@
+
+header{
+    font-family: 'Merriweather', serif;
+    background-image: url(./resources/Banner\ Image.png);
+    
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background: linear-gradient(#070211, #07021100);
+     */
+}
+header h4,h1{
+    text-align: center;
+    
+    
+    color: white;
+    
+    
+}
+h4{
+    padding-top: 12%;
+}
+h1{
+    word-spacing: 5px;
+}
+.section1{
+    font-family: 'Inter', sans-serif;
+    margin-top: 70px;
+    
+}
+.section1 p{
+    text-align: center;
+}
+.section1>.sec1-img{
+    width: 60%;
+    margin: auto;
+    
+
+}
+.section2{
+    background-image: url(./resources/Vectorrr.png);
+    max-width: 100%;
+    min-height: 100%;
+    display: flex;
+    margin-top: 70px;
+
+}
+.sec2left p{
+    margin: 0 250px;
+    color: rgba(255, 255, 255, 0.80);
+    
+}
+.section2 button{
+    background-color: rgba(100, 74, 74, 0.315);
+    
+}
+.section2 label{
+    display: block;
+    
+}
+.newyearimg{
+    padding: 30px 70px;
+}
+
+/* info Styles Start  */
+.info{
+    background-color:rgba(224, 57, 57, 0.342) ;
+    font-family: 'Inter', sans-serif;
+
+}
+.info p{
+    text-align: center;
+}
+.info div{
+    padding: 10px;
+}
+.sec3 div{
+    margin-top: 20px;
+    
+}
+/* .info-Top{
+    border: 1px solid rgb(200, 226, 49);
+} */
+.disc-mey{
+    background-image: url(./resources/Rectangle\ 1.png);
+    
+    height: 435px;
+    
+    width: 100%;
+    padding-right: 20%;
+    
+}
+.sec5{
+    margin: auto;
+    width: 80%;
+    justify-content: center;
+    background-image: url(./resources/Rectangle\ 2.png);
+    
+    margin-top: 50px;
+}
+.pics1{
+    display: flex;
+}
+.pics2{
+    display: flex;
+}
+.sec7{
+    padding: 40px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(128, 255, 0, 0.37);
+}
+.imgsection img{
+    padding-top: 80px;
+    
+}
+.footofadd{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.footofadd div{
+    margin-right: 20%;
+    margin-left: 20%;
+    border-bottom: 2px solid white;
+}
+ul {
+    list-style: none;
+    display: flex;
+    margin: auto;
+}
+ul li{
+    padding-right: 15px;
+}
+.lastsec{
+    justify-content: center;
+    display: block;
+    
+    margin-left: 40%;}
+footer{
+    background: #000;
+}
+.atlast{
+    border-top:2px solid white;
+    margin-left: 10%;
+}
